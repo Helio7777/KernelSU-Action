@@ -8,9 +8,9 @@ env:
   defconfig: |
     b1c1_defconfig
   kernel_patch: |
-    support-umount-modules-kernel.patch
+#    support-umount-modules-kernel.patch
   kernelsu_patch: |
-    support-umount-modules-kernelsu.patch
+#    support-umount-modules-kernelsu.patch
 
 on:
   schedule:
